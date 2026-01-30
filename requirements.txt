@@ -1,0 +1,11 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-groq
+langchain-core
+qdrant-client
+python-dotenv
+httpx
+tiktoken
